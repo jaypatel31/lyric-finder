@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/lyric-finder/static/css/main.26f9e6b0.chunk.css",
-    "main.js": "/lyric-finder/static/js/main.409f1055.chunk.js",
-    "main.js.map": "/lyric-finder/static/js/main.409f1055.chunk.js.map",
+    "main.js": "/lyric-finder/static/js/main.a7c7fa2f.chunk.js",
+    "main.js.map": "/lyric-finder/static/js/main.a7c7fa2f.chunk.js.map",
     "runtime-main.js": "/lyric-finder/static/js/runtime-main.e653b404.js",
     "runtime-main.js.map": "/lyric-finder/static/js/runtime-main.e653b404.js.map",
     "static/js/2.b1912781.chunk.js": "/lyric-finder/static/js/2.b1912781.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.e653b404.js",
     "static/js/2.b1912781.chunk.js",
     "static/css/main.26f9e6b0.chunk.css",
-    "static/js/main.409f1055.chunk.js"
+    "static/js/main.a7c7fa2f.chunk.js"
   ]
 }
