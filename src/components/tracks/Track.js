@@ -14,7 +14,7 @@ const Track = ({track}) => {
                         <br/>
                         <strong style={{fontWeight:"bold"}}><BsPlayFill style={{color:"green"}}/> Album</strong>:{track.album_name}
                     </p>
-                    <Link to={`lyrics/track/${track.track_id}`} className="btn btn-dark d-block">
+                    <Link to={`/lyrics/track/${track.track_id}`} className="btn btn-dark d-block">
                         View Lyrics
                     </Link>
                 </div>

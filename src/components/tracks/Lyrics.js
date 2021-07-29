@@ -30,7 +30,7 @@ const Lyrics = ({match}) => {
                 (track === undefined || lyrics === undefined || Object.keys(track).length === 0 || Object.keys(lyrics).length === 0)?<Spinner/>
                 :
                 <>
-                    <Link to="/" className="btn btn-dark btn-sm mb-4" >Go Back</Link>
+                    <Link to="/lyric-finder" className="btn btn-dark btn-sm mb-4" >Go Back</Link>
                     <div className="card">
                         <h5 className="card-header">
                             {track.track_name} by <span className="text-secondary">{track.artist_name}</span>

@@ -11,9 +11,10 @@ function App() {
       <Provider>
         <>
           <Navbar/>
-          <div className="container">
+          <div className="container"> 
             <Switch>
               <Route path="/lyric-finder" exact component={Index}/>
+              <Route path="/lyric-finder/lyrics/track/:id" component={Lyrics}/>
               <Route path="/lyrics/track/:id" component={Lyrics}/>
             </Switch>
           </div>
